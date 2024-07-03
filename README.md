@@ -23,5 +23,7 @@ En esta oportunidad se presenta mi proyecto de encriptador proporcionado por Alu
  
 Área para mostrar el texto encriptado/desencriptado.
   <img src="https://github.com/DanielOrtz/Encriptador_Alura_Challenge/blob/main/ImgReadme/cap%202.JPG">
+  Ahora se va a usar el boton copiar para copiar el texto encriptado y luego pegarlo en ingresar el texto
   <img src="https://github.com/DanielOrtz/Encriptador_Alura_Challenge/blob/main/ImgReadme/cap%203.JPG">
+  Ahora se procede a descencriptar el texto encriptado dando el resultado del lado derecho
   <img src="https://github.com/DanielOrtz/Encriptador_Alura_Challenge/blob/main/ImgReadme/cap%204.JPG">
