@@ -28,5 +28,5 @@ En esta oportunidad se presenta mi proyecto de encriptador proporcionado por Alu
   Ahora se procede a descencriptar el texto encriptado dando el resultado del lado derecho
   <img src="https://github.com/DanielOrtz/Encriptador_Alura_Challenge/blob/main/ImgReadme/cap%204.JPG">
 
- <a href="http://127.0.0.1:5500/index.html"> Resultado Aqui
+ <a href="file:///C:/Users/User/AppData/Local/Temp/Rar$EXa2412.1320/Encriptador_Alura_Challenge-main/index.html"> Resultado Aqui
 </a>
