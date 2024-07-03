@@ -7,7 +7,21 @@ En esta oportunidad se presenta mi proyecto de encriptador proporcionado por Alu
   <li>Campo para el texto que va a ser encriptado/desencriptado</li>
   <li>Un botón para encriptar</li>
   <li>Un botón para desencriptar</li>
-  <li>Filtro de Monedas</li>
+  <li>Un boton para copiar</li>
   <li>Área para mostrar el texto encriptado/desencriptado.</li>
   <li>(Opcional) Rodapie con mi link a github</li>
 </ul>
+
+<h1>RESULTADOS DEL PROCESO</h1>
+ Ttitulo del sitio web:  Encriptador_AluraChallenge
+ Campo para el texto que va a ser encriptado/desencriptado
+ Un botón para encriptar
+ Un botón para desencriptar
+ Un boton para copiar
+ (Opcional) Rodapie con mi link a github
+ <img src="https://github.com/DanielOrtz/Encriptador_Alura_Challenge/blob/main/ImgReadme/cap%201.JPG">
+ 
+Área para mostrar el texto encriptado/desencriptado.
+  <img src="https://github.com/DanielOrtz/Encriptador_Alura_Challenge/blob/main/ImgReadme/cap%202.JPG">
+  <img src="https://github.com/DanielOrtz/Encriptador_Alura_Challenge/blob/main/ImgReadme/cap%203.JPG">
+  <img src="https://github.com/DanielOrtz/Encriptador_Alura_Challenge/blob/main/ImgReadme/cap%204.JPG">
